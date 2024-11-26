@@ -16,9 +16,9 @@
 **Proyectos Destacados**
 
 👯 * **[Estimación_demanda_de_viajes_en_taxi_NY_City (Proyecto final grupal)]:** El proyecto consiste en desarrollar una consultoría para el análisis de trasporte urbano de taxis ecológicos y convencionales en la ciudad de Nueva York.
-* **Enlace al repositorio:** [[Enlace a tu repositorio de GitHub]](https://github.com/jdbaquero84/NY_cabs_consultant)
+* **Enlace al repositorio:** https://github.com/jdbaquero84/NY_cabs_consultant
 * **Proyecto2analisisdedatos:** BEste proyecto tiene como objetivo analizar los datos de homicidios y mortalidad en siniestros viales en la Ciudad de Buenos Aires (CABA) entre los años 2016 y 2021. El análisis se centra en identificar tendencias en los tipos de víctimas, los medios de transporte involucrados, y los cambios en las tasas de homicidios en distintos periodos de tiempo.
-  * **Enlace al repositorio:** [[Enlace a tu repositorio de GitHub]](https://github.com/CaroVallejo/Proyecto2analisisdedatos)
+  * **Enlace al repositorio:** https://github.com/CaroVallejo/Proyecto2analisisdedatos
 
 **Experiencia**
 
@@ -35,7 +35,8 @@
 📫 **Contacto**
 
 * **Correo electrónico:** dcvallejo@unicauca.edu.co
-* **LinkedIn:** [[Tu perfil de LinkedIn]](https://www.linkedin.com/in/diana-carolina-vallejo-l%C3%B3pez-aa96b82ab/)
+* **LinkedIn:** https://www.linkedin.com/in/diana-carolina-vallejo-l%C3%B3pez-aa96b82ab/
+
 **Etiquetas**
 
 #cienciadedatos #python #sql #powerbi #gcp #machinelearning #dataviz #datascience #datascientist
