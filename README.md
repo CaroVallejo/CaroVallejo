@@ -1,5 +1,5 @@
 
-✨ # Diana Carolina - Científica de Datos ✨
+✨ #Diana Carolina - Científica de Datos ✨
 
 🌱 Soy una científica de datos apasionada por descubrir insights valiosos a partir de datos complejos, me especializo en el desarrollo de soluciones analíticas utilizando Python, SQL y Power BI. 
 
