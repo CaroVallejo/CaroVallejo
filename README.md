@@ -39,4 +39,4 @@
 
 **Etiquetas**
 
-#cienciadedatos #python #sql #powerbi #gcp #machinelearning #dataviz #datascience #datascientist
+#cienciadedatos #python #sql #powerbi #gcp #machinelearning #bigdata #datascience #datascientist
